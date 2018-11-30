@@ -25,7 +25,6 @@ void selection_sort(int array[], int n)
 
 int main(void)
 {
-
     int array[] = {12, 23, 43, 11, 34, 2, 45};
     int n = sizeof(array) / sizeof(int);
 
