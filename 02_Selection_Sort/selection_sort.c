@@ -39,9 +39,9 @@ int main(void)
 
 void swap(int *a, int *b)
 {
-    int temp = *a;
+    int tmp = *a;
     *a = *b;
-    *b = temp;
+    *b = tmp;
 }
 
 int find_min(int array[], int start, int n)
